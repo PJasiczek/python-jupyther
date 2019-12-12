@@ -1,5 +1,5 @@
 # Jupyther Python
->This repository contains a Jupiter notebook analyzing the entered results of research stations
+>This repository contains a Jupiter notebook analyzing the entered results of research stations.
 
 ## Status
 Project is: _finished_.
